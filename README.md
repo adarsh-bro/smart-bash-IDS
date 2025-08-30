@@ -32,4 +32,4 @@ chmod +x smart-bash-IDS.sh
   - You may need to manually configure persistence for log storage.  
 - Git installed  
 - Basic knowledge of Linux commands
-Note : You may need to know your logging system, and if you want this script run after start up and every ten minutes like mine then you need to edit your startup with specific command.
+Note : You may need to know your logging system, and if you want this script run after start up and every ten minutes like mine then you need to edit your startup with specific command. Because I am using live kali with persistance USB drive that's why my startup tool is "crontab" and I use to edit it with "crontab -e", in the last line I've just pasted "*/10 * * * * /home/kali/Desktop/sentinel-x/sentinel-x.sh >> /home/kali/Desktop/sentinel-x/sentinel-x.log 2>&1"
