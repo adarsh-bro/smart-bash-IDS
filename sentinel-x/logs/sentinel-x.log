@@ -1,0 +1,23 @@
+[2025-08-10 01:04:05] 🚨 [kali] ✅ Sentinel X started scanning
+[2025-08-10 01:04:14] 🚨 [kali] ✅ Scan complete
+[2025-08-10 01:17:51] 🚨 [kali] ✅ Sentinel X started scanning
+[2025-08-10 01:17:52] 🚨 [kali] ✅ Scan complete
+[2025-08-10 01:36:54] 🚨 [kali] ✅ Sentinel X started scanning
+[2025-08-10 01:37:01] 🚨 [kali] ✅ Scan complete
+/bin/sh: 1: /path/to/sentinel-x.sh: not found
+[2025-08-10 01:45:39] 🚨 [kali] ✅ Sentinel X started scanning
+[2025-08-10 01:45:43] 🚨 [kali] ✅ Scan complete
+/bin/sh: 1: /path/to/sentinel-x.sh: not found
+/bin/sh: 1: /path/to/sentinel-x.sh: not found
+/home/kali/Desktop/sentinel-x/sentinel-x.sh: line 52: rules.conf: No such file or directory
+[2025-08-10 02:10:01] 🚨 [kali] ✅ Sentinel X started scanning
+/home/kali/Desktop/sentinel-x/sentinel-x.sh: line 74: rules.conf: No such file or directory
+/home/kali/Desktop/sentinel-x/sentinel-x.sh: line 60: rules.conf: No such file or directory
+[2025-08-10 02:10:03] 🚨 [kali] ✅ Scan complete
+[2025-08-10 02:20:01] 🚨 [kali] ✅ Sentinel X started scanning
+[2025-08-10 02:20:04] 🚨 [kali] passwd file modified
+[2025-08-10 02:20:08] 🚨 [kali] ✅ Scan complete
+[2025-08-10 02:30:01] 🚨 [kali] ✅ Sentinel X started scanning
+[2025-08-10 02:30:03] 🚨 [kali] ✅ Scan complete
+[2025-08-10 02:40:01] 🚨 [kali] ✅ Sentinel X started scanning
+[2025-08-10 02:40:04] 🚨 [kali] ✅ Scan complete
